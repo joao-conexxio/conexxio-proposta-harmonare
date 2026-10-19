@@ -1,0 +1,200 @@
+{
+  "slug": "harmonare",
+  "negocio": {
+    "nome": "Harmonare",
+    "whatsapp": "553425890919",
+    "unidades": [
+      {
+        "bairro": "Vigilato Pereira · Uberlândia/MG",
+        "endereco": "R. Jandyro Vilela de Freitas, CEP 38408-606",
+        "telefone": "(34) 2589-0919"
+      }
+    ]
+  },
+  "marca": {
+    "brand": "#343a2b",
+    "brand2": "#24281e",
+    "ink": "#29291f",
+    "bg": "#f5efe1",
+    "pulse": "#bfbf7e",
+    "radius": "0px",
+    "registro": "editorial",
+    "fontDisplay": "Fraunces",
+    "fontBody": "Arimo",
+    "tomHero": "escuro",
+    "tomCorpo": "claro"
+  },
+  "motivo": "camadas",
+  "secoes": [
+    {
+      "id": "header",
+      "variant": "sticky-cta",
+      "data": {
+        "links": [
+          {
+            "texto": "Tratamentos",
+            "href": "#tratamentos"
+          },
+          {
+            "texto": "Como funciona",
+            "href": "#como-funciona"
+          },
+          {
+            "texto": "Dúvidas",
+            "href": "#faq"
+          },
+          {
+            "texto": "Onde estamos",
+            "href": "#unidades"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hero",
+      "variant": "split-motivo",
+      "data": {
+        "eyebrow": "Clínica de beleza só para mulheres · Uberlândia/MG",
+        "h1": "Cuidado sem pressa, entre mulheres",
+        "lead": "Tratamentos faciais, corporais e depilação no Vigilato Pereira. Um espaço exclusivo para mulheres, onde cada atendimento tem o tempo que precisa.",
+        "cta": "Agendar horário",
+        "ctaSecundario": "Ver tratamentos",
+        "ctaSecundarioHref": "#tratamentos",
+        "arte": "grao"
+      }
+    },
+    {
+      "id": "fita",
+      "data": {
+        "itens": [
+          "Tratamentos faciais",
+          "Tratamentos corporais",
+          "Depilação",
+          "Exclusivo para mulheres",
+          "Vigilato Pereira · Uberlândia"
+        ]
+      }
+    },
+    {
+      "id": "manifesto",
+      "variant": "faixa",
+      "data": {
+        "eyebrow": "Por que só mulheres",
+        "citacao": "Cuidar da aparência começa por se sentir à vontade.",
+        "texto": [
+          "A Harmonare é um espaço exclusivo para mulheres. Não é um detalhe da recepção: muda a forma de deitar na maca, de se trocar para um tratamento corporal, de fazer uma depilação sem constrangimento.",
+          "O resto segue a mesma ideia. O objetivo não é deixar você parecida com ninguém, e sim cuidar do rosto, do corpo e da pele que já são seus — com profissionais especializados e tempo para você relaxar enquanto isso acontece."
+        ]
+      }
+    },
+    {
+      "id": "tratamentos",
+      "data": {
+        "titulo": "Tratamentos",
+        "lead": "Três frentes de cuidado. O que entra em cada uma é combinado com você antes do primeiro atendimento.",
+        "itens": [
+          {
+            "nome": "Tratamentos faciais",
+            "descricao": "Cuidados para a pele do rosto, escolhidos a partir do que ela pede agora: oleosidade, manchas, textura ou só manutenção."
+          },
+          {
+            "nome": "Tratamentos corporais",
+            "descricao": "Cuidados para o corpo, da textura da pele ao relaxamento, num ambiente reservado, para você ficar à vontade do começo ao fim."
+          },
+          {
+            "nome": "Depilação",
+            "descricao": "Num espaço frequentado só por mulheres, onde o conforto conta tanto quanto o resultado."
+          }
+        ]
+      }
+    },
+    {
+      "id": "passos",
+      "variant": "timeline",
+      "data": {
+        "titulo": "Como funciona",
+        "lead": "Do primeiro contato ao dia do atendimento.",
+        "itens": [
+          {
+            "titulo": "Contato",
+            "texto": "Você liga ou manda mensagem, conta o que está procurando e combina o melhor horário."
+          },
+          {
+            "titulo": "Conversa inicial",
+            "texto": "Antes de qualquer tratamento, uma conversa sobre a sua rotina, a sua pele e o que você espera. É ela que define o que faz sentido para você."
+          },
+          {
+            "titulo": "Atendimento",
+            "texto": "No dia, o tempo é seu: ambiente tranquilo e atendimento sem pressa."
+          },
+          {
+            "titulo": "Continuidade",
+            "texto": "Quando o tratamento pede mais de uma sessão, o intervalo entre elas já sai combinado."
+          }
+        ]
+      }
+    },
+    {
+      "id": "faq",
+      "variant": "acordeao",
+      "data": {
+        "titulo": "Dúvidas frequentes",
+        "itens": [
+          {
+            "p": "A Harmonare atende só mulheres?",
+            "r": "Sim. O espaço é exclusivo para mulheres, pensado para você ficar à vontade em qualquer tratamento, inclusive nos corporais e na depilação."
+          },
+          {
+            "p": "Preciso saber qual tratamento quero antes de agendar?",
+            "r": "Não. Você pode chegar só com o que está incomodando. A indicação sai da conversa inicial."
+          },
+          {
+            "p": "Quantas sessões vou precisar?",
+            "r": "Depende do tratamento e da sua pele. Quando há mais de uma sessão, você sabe quantas e com que intervalo antes de começar."
+          },
+          {
+            "p": "Onde fica a clínica?",
+            "r": "Na Rua Jandyro Vilela de Freitas, no Vigilato Pereira, em Uberlândia."
+          },
+          {
+            "p": "Como faço para agendar?",
+            "r": "Pelo telefone (34) 2589-0919."
+          }
+        ]
+      }
+    },
+    {
+      "id": "unidades",
+      "variant": "unica",
+      "data": {
+        "titulo": "Onde estamos"
+      }
+    },
+    {
+      "id": "cta-final",
+      "variant": "bloco-cheio",
+      "data": {
+        "h2": "Reserve um tempo para você",
+        "lead": "Conte o que está procurando e combine o primeiro horário. A conversa inicial vem antes de qualquer tratamento.",
+        "cta": "Agendar horário"
+      }
+    },
+    {
+      "id": "footer",
+      "variant": "completo",
+      "data": {
+        "links": [
+          {
+            "texto": "Tratamentos",
+            "href": "#tratamentos"
+          },
+          {
+            "texto": "Onde estamos",
+            "href": "#unidades"
+          }
+        ],
+        "aviso": "Resultados variam de pessoa para pessoa e dependem de avaliação individual."
+      }
+    }
+  ]
+}
